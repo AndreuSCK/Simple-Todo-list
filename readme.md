@@ -1,3 +1,3 @@
 # TodoList using React Native
 
-<img src="./assets/mockup.png" width="500" />
+<img src="./assets/mockup.png" width="250" />
